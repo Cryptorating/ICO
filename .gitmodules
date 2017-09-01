@@ -1,0 +1,3 @@
+[submodule "white_papers"]
+	path = white_papers
+	url = http://github.com/fgallaire/white_papers
