@@ -22,6 +22,6 @@
 
 | Name | Symbol | Market cap | Blockchain | White paper | Smart contracts |
 | - | - | - | - | - | - |
-| [Authorship](http://authorship.com) | ATS | ICO | Ethereum | [Authorship-White-Paper.pdf](white_papers/Authorship/Authorship-White-Paper.pdf) | |
-| [Creativecoin](https://www.creativechain.org) | CREA | $3,000,000 | Creativechain | [Whitepaper-Creativechain-1.2.pdf](white_papers/Creativechain/Whitepaper-Creativechain-1.2.pdf) | |
+| [Authorship](http://authorship.com) | ATS | ICO | Ethereum | [Authorship-White-Paper.pdf](white_papers/Authorship/Authorship+White+Paper+Authorship-White-Paper.pdf) | |
+| [Creativecoin](https://www.creativechain.org) | CREA | $3,000,000 | Creativechain | [Whitepaper-Creativechain-1.2.pdf](white_papers/Creativecoin/Whitepaper-Creativechain-1.2.pdf) | |
 | [Po.et](https://po.et) | POE | ICO | Ethereum | [whitepaper.pdf](white_papers/Po.et/whitepaper.pdf) | |
