@@ -17,3 +17,11 @@
 | [Binance](https://www.binance.com) | BNB | $260,000,000 | Ethereum | [Binance_WhitePaper_en.pdf](white_papers/Binance/Binance_WhitePaper_en.pdf) | |
 | [Mothership](https://mothership.cx) | MSP | $40,000,000 | Ethereum | [whitepaper.pdf](white_papers/Mothership/whitepaper.pdf) | |
 | [NVO](https://nvo.io) | NVST | $8,000,000 | Counterparty | [whitepaper.pdf](white_papers/NVO/whitepaper.pdf) | |
+
+## Copyright ICO
+
+| Name | Symbol | Market cap | Blockchain | White paper | Smart contracts |
+| - | - | - | - | - | - |
+| [Authorship](http://authorship.com) | ATS | ICO | Ethereum | [Authorship+White+Paper+Authorship-White-Paper.pdf](white_papers/Authorship/Authorship+White+Paper+Authorship-White-Paper.pdf) | |
+| [Creativecoin](https://www.creativechain.org) | CREA | $3,000,000 | Creativechain | [Whitepaper-Creativechain-1.2.pdf](white_papers/Creativechain/Whitepaper-Creativechain-1.2.pdf) | |
+| [Po.et](https://po.et) | POE | ICO | Ethereum | [whitepaper.pdf](white_papers/Po.et/whitepaper.pdf) | |
