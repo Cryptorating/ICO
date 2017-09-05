@@ -30,6 +30,6 @@
 
 | Name | Symbol | Market cap | Platform | White paper | Smart contracts |
 | - | - | - | - | - | - |
-| [Tether](https://tether.to) | USDT | $400,000,000 | Omni | [WP](white_papers/Tether/TetherWhitePaper.pdf) | [ANN]() |
-| BitUSD | BITUSD | $4,000,000 | BitShares | | [ANN]() |
-| [NuBits](https://www.nubits.com) | USNBT | $600,000 | Nubits | [WP](white_papers/NuBits/nu-whitepaper-23_sept_2014-en.pdf) | [ANN]() |
+| [Tether](https://tether.to) | USDT | $400,000,000 | Omni | [WP](white_papers/Tether/TetherWhitePaper.pdf) | |
+| BitUSD | BITUSD | $4,000,000 | BitShares | | |
+| [NuBits](https://www.nubits.com) | USNBT | $600,000 | Nubits | [WP](white_papers/NuBits/nu-whitepaper-23_sept_2014-en.pdf) | |
