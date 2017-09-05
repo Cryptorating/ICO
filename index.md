@@ -8,7 +8,7 @@
 | [NEM](https://nem.io) | XEM | $2,500,000,000 | [WP](white_papers/NEM/NEM_techRef.pdf) | [ANN](https://bitcointalk.org/index.php?topic=654845.0) |
 | [NEO](https://neo.org) (Antshares) | NEO | $1,200,000,000 | [WP](https://github.com/neo-project/docs/blob/master/en-us/index.md) | [Antshares](https://bitcointalk.org/index.php?topic=1571738.0) [NEO](https://bitcointalk.org/index.php?topic=2057932.0) |
 | [Nxt](https://nxt.org) | NXT | $90,000,000 | [WP](white_papers/Nxt/NxtWhitepaper-v122-rev4.pdf) | [ANN](https://bitcointalk.org/index.php?topic=587007.0) |
-| [Omni](http://www.omnilayer.org) (Mastercoin) | OMNI | $15,000,000 | [MasterCoin](white_papers/Omni/MasterCoin Specification 1.1.pdf) [Omni](https://github.com/OmniLayer/spec) | |
+| [Omni](http://www.omnilayer.org) (MasterCoin) | OMNI | $15,000,000 | [MasterCoin](white_papers/Omni/MasterCoin Specification 1.1.pdf) [Omni](https://github.com/OmniLayer/spec) | |
 | [Waves](https://wavesplatform.com) | WAVES | $500,000,000 | [WP](white_papers/Waves/whitepaper_v0.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1387944.0) |
 
 ## Bank/Card ICO
@@ -40,8 +40,8 @@
 
 ## Stable currencies
 
-| Name | Symbol | Market cap | Platform | White paper | Smart contracts |
-| - | - | - | - | - | - |
-| [Tether](https://tether.to) | USDT | $400,000,000 | Omni | [WP](white_papers/Tether/TetherWhitePaper.pdf) | |
-| BitUSD | BITUSD | $4,000,000 | BitShares | | |
-| [NuBits](https://www.nubits.com) | USNBT | $600,000 | Nubits | [WP](white_papers/NuBits/nu-whitepaper-23_sept_2014-en.pdf) | |
+| Name | Symbol | Market cap | Platform | White paper |
+| - | - | - | - | - |
+| BitUSD | BITUSD | $4,000,000 | BitShares | |
+| [Tether](https://tether.to) | USDT | $400,000,000 | Omni | [WP](white_papers/Tether/TetherWhitePaper.pdf) |
+| [NuBits](https://www.nubits.com) | USNBT | $600,000 | NuBits | [WP](white_papers/NuBits/nu-whitepaper-23_sept_2014-en.pdf) |
