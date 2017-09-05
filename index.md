@@ -1,3 +1,15 @@
+## Platforms
+
+| Name | Symbol | Market cap | White paper | Announcement |
+| - | - | - | - | - |
+| [BitShares](https://bitshares.org) | BTS | $300,000,000 | [WP](white_papers/BitShares/bitshares-general.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1949828) |
+| [Counterparty](https://counterparty.io) | XCP | $30,000,000 | | |
+| [Ethereum](https://www.ethereum.org) | ETH | $30,000,000,000 | [WP](https://github.com/ethereum/wiki/wiki/White-Paper) [original WP](white_papers/Ethereum/Ethereum_white_paper.pdf) [Yellow paper](white_papers/Ethereum/Ethereum_yellow_paper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=428589.0) |
+| [NEM](https://nem.io) | XEM | $2,500,000,000 | [WP](white_papers/NEM/NEM_techRef.pdf) | [ANN](https://bitcointalk.org/index.php?topic=654845.0) |
+| [NEO](https://neo.org) | NEO | $1,200,000,000 | [WP](https://github.com/neo-project/docs/blob/master/en-us/index.md) | [ANN](https://bitcointalk.org/index.php?topic=2057932.0) |
+| [Nxt](https://nxt.org) | NXT | $90,000,000 | [WP](white_papers/Nxt/NxtWhitepaper-v122-rev4.pdf) | [ANN](https://bitcointalk.org/index.php?topic=587007.0) |
+| [Omni](http://www.omnilayer.org) | OMNI | $15,000,000 | [WP](white_papers/Omni/MasterCoin Specification 1.1.pdf) | |
+| [Waves](https://wavesplatform.com) | WAVES | $500,000,000 | [WP](white_papers/Waves/whitepaper_v0.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1387944.0) |
 
 ## Bank/Card ICO
 
