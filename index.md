@@ -1,7 +1,7 @@
 
 ## Bank/Card ICO
 
-| Name | Symbol | Market cap | Blockchain | White paper | Smart contracts |
+| Name | Symbol | Market cap | Platform | White paper | Smart contracts |
 | - | - | - | - | - | - |
 | [Bankera](https://bankera.com) | BNK | ICO | Ethereum | [Bankera_whitepaper.pdf](white_papers/Bankera/Bankera_whitepaper.pdf) | |
 | [Change](https://change-bank.com) | CAG | ICO | Ethereum | [Whitepaper.pdf](white_papers/Change/Whitepaper.pdf) | |
@@ -12,7 +12,7 @@
 
 ## Exchange ICO
 
-| Name | Symbol | Market cap | Blockchain | White paper | Smart contracts |
+| Name | Symbol | Market cap | Platform | White paper | Smart contracts |
 | - | - | - | - | - | - |
 | [Binance](https://www.binance.com) | BNB | $260,000,000 | Ethereum | [Binance_WhitePaper_en.pdf](white_papers/Binance/Binance_WhitePaper_en.pdf) | |
 | [Mothership](https://mothership.cx) | MSP | $40,000,000 | Ethereum | [whitepaper.pdf](white_papers/Mothership/whitepaper.pdf) | |
@@ -20,8 +20,16 @@
 
 ## Copyright ICO
 
-| Name | Symbol | Market cap | Blockchain | White paper | Smart contracts |
+| Name | Symbol | Market cap | Platform | White paper | Smart contracts |
 | - | - | - | - | - | - |
 | [Authorship](http://authorship.com) | ATS | ICO | Ethereum | [Authorship-White-Paper.pdf](white_papers/Authorship/Authorship+White+Paper+Authorship-White-Paper.pdf) | |
 | [Creativecoin](https://www.creativechain.org) | CREA | $3,000,000 | Creativechain | [Whitepaper-Creativechain-1.2.pdf](white_papers/Creativecoin/Whitepaper-Creativechain-1.2.pdf) | |
 | [Po.et](https://po.et) | POE | ICO | Ethereum | [whitepaper.pdf](white_papers/Po.et/whitepaper.pdf) | |
+
+## Stable currencies
+
+| Name | Symbol | Market cap | Platform | White paper | Smart contracts |
+| - | - | - | - | - | - |
+| [Tether](https://tether.to) | USDT | $400,000,000 | Omni | [TetherWhitePaper.pdf](white_papers/Tether/TetherWhitePaper.pdf) | |
+| BitUSD | BITUSD | $4,000,000 | BitShares | | |
+| [NuBits](https://www.nubits.com) | USNBT | $600,000 | Nubits | [nu-whitepaper-23_sept_2014-en.pdf](white_papers/NuBits/nu-whitepaper-23_sept_2014-en.pdf) | |
