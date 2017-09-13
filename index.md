@@ -15,7 +15,7 @@
 
 | Name | Symbol | Market cap | Platform | White paper | Announcement |
 | - | - | - | - | - | - |
-| [Bankera](https://bankera.com) | BNK | ICO | Ethereum | [WP](white_papers/Bankera/Bankera_whitepaper.pdf) | |
+| [Bankera](https://bankera.com) | BNK | ICO | Ethereum and NEM | [WP](white_papers/Bankera/Bankera_whitepaper.pdf) | |
 | [Change](https://change-bank.com) | CAG | ICO | Ethereum | [WP](white_papers/Change/Whitepaper.pdf) | |
 | [Monaco](https://mona.co) | MCO | $100,000,000 | Ethereum | [WP](white_papers/Monaco/monaco-whitepaper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1926269.0) |
 | [Polybius](https://polybius.io) | PLBT | $30,000,000 | Ethereum | [WP](white_papers/Polybius/tw_en.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1848751.0) |
