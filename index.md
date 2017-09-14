@@ -36,7 +36,8 @@
 | - | - | - | - | - | - |
 | [Authorship](http://authorship.com) | ATS | ICO | Ethereum | [WP](white_papers/Authorship/Authorship+White+Paper+Authorship-White-Paper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=2058499.0) |
 | [Creativecoin](https://www.creativechain.org) | CREA | $3,000,000 | Creativechain | [WP](white_papers/Creativecoin/Whitepaper-Creativechain-1.2.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1809920.0) |
-| [Po.et](https://po.et) | POE | ICO | Ethereum | [WP](white_papers/Po.et/whitepaper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=2027214.0) |
+| [Embermine](https://embermine.com) | MBRS | $3,000,000 | Ethereum | [WP](white_papers/Embermine/Embermine Whitepaper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1914703) |
+| [Po.et](https://po.et) | POE | $16,000,000 | Ethereum | [WP](white_papers/Po.et/whitepaper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=2027214.0) |
 
 ## Stable currencies
 
