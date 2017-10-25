@@ -20,7 +20,8 @@ white_papers: https://fgallaire.github.io/white_papers/
 | Name | Symbol | Market cap | Platform | White paper | Announcement |
 | - | - | - | - | - | - |
 | [Bankera](https://bankera.com) | BNK | ICO | Ethereum and NEM | [WP]({{ page.white_papers }}Bankera/Bankera_whitepaper.pdf) | |
-| [Change](https://change-bank.com) | CAG | ICO | Ethereum | [WP]({{ page.white_papers }}Change/Whitepaper.pdf) | |
+| [Centra](https://change-bank.com) | CTR | $40,000,000 | Ethereum | | [ANN](https://bitcointalk.org/index.php?topic=2041101.0) |
+| [Change](https://www.centra.tech) | CAG | ICO | Ethereum | [WP]({{ page.white_papers }}Change/Whitepaper.pdf) | |
 | [Monaco](https://mona.co) | MCO | $100,000,000 | Ethereum | [WP]({{ page.white_papers }}Monaco/monaco-whitepaper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1926269.0) |
 | [Polybius](https://polybius.io) | PLBT | $30,000,000 | Ethereum | [WP]({{ page.white_papers }}Polybius/tw_en.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1848751.0) |
 | [TenX](https://www.tenx.tech) | PAY | $400,000,000 | Ethereum | [WP]({{ page.white_papers }}TenX/tenx_whitepaper_final.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1953612.0) |
