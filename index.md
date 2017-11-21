@@ -1,5 +1,5 @@
 ---
-white_papers: https://fgallaire.github.io/white_papers/
+white_papers: https://cryptorating.github.io/white_papers/
 ---
 
 ## Platforms
