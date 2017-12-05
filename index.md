@@ -32,6 +32,7 @@ white_papers: https://cryptorating.github.io/white_papers/
 | Name | Symbol | Market cap | Platform | White paper | Announcement |
 | - | - | - | - | - | - |
 | [Binance](https://www.binance.com) | BNB | $260,000,000 | Ethereum | [WP]({{ page.white_papers }}Binance/Binance_WhitePaper_en.pdf) | |
+| [Cobinhood](https://www.cobinhood.com) | COB | $50,000,000 | Ethereum | [WP]({{ page.white_papers }}Cobinhood/whitepaper_en.pdf) | [ANN](https://bitcointalk.org/index.php?topic=2169745.0) |
 | [Mothership](https://mothership.cx) | MSP | $40,000,000 | Ethereum | [WP]({{ page.white_papers }}Mothership/whitepaper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=2003693.0) |
 | [NVO](https://nvo.io) | NVST | $8,000,000 | Counterparty | [WP]({{ page.white_papers }}NVO/whitepaper.pdf) | [ANN](https://bitcointalk.org/index.php?topic=1917456.0) |
 
