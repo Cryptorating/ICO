@@ -1,5 +1,5 @@
 ---
-white_papers: https://cryptorating.eu/white_papers/
+white_papers: https://cryptorating.eu/whitepapers/
 ---
 
 ## Platforms
